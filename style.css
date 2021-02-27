@@ -3,3 +3,13 @@ body {
    background-color: goldenrod;
    font-family: 'Kanit', sans-serif;
 }
+div {
+   color: #999;
+}
+.bg-color-red{
+   background-color: crimson;
+}
+.bg-color-gold{
+   background-color: gold;
+}
+
